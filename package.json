@@ -16,5 +16,8 @@
     "url": "https://github.com/vvscode/new-project-setup/issues"
   },
   "homepage": "https://github.com/vvscode/new-project-setup#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
 }
